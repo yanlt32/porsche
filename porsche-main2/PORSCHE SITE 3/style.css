@@ -1,0 +1,30 @@
+
+@font-face {
+    font-family: porsche;
+    src: url(/fonte/911v2.ttf)
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: porsche;
+    color: rgb(189, 9, 45);
+}
+.titulo1 {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-family: porsche;
+    color: rgb(199, 202, 19);
+}
+.model {
+    display: flex;
+    justify-content: center;
+    color: darkred;
+    font-family: porsche;
+}
+
+.texth1 img {
+    float: left;
+}
